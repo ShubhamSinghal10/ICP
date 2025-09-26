@@ -1,3 +1,7 @@
+
+// T.C == 0 ms
+// S.C == 46.14 MB
+
 class Solution {
 
     public int first_occ(int[] nums, int target) {

@@ -1,7 +1,7 @@
 
 // Using merge sort
 
-// t.c = 0 ms
+// t.c = 0 ms // Beat = 100%;
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
